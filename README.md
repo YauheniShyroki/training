@@ -1,5 +1,3 @@
 # training
 
-Third commit
-
-Master advanced commit
+Develop conflict
